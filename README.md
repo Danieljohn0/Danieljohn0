@@ -1,6 +1,6 @@
 - *👋 Hi, I’m @Danieljohn0
 
-- ***I am a Pharmacist, data analyst and an research and epidemiology analyst
+- ***I am a Pharmacist, data analyst and a trade and finance analyst. A data scientist in view.
 - ***I love numbers and want to create great insights that solves health challenges.
 - **Follow me on [LinkedIn](https://www.linkedin.com/in/danieljohnie/)
 <!---
